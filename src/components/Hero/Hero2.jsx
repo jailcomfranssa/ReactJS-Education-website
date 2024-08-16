@@ -24,7 +24,7 @@ export const FadeUp = () => {
   };
 };
 
-const Hero = () => {
+const Hero2 = () => {
   return (
     <section className="bg-gray-50 overflow-hidden relative">
       <Navbar />
@@ -84,4 +84,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Hero2;
